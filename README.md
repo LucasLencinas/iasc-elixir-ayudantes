@@ -1,19 +1,16 @@
-# Tp1Ayudantes
+## iasc-elixir-ayudantes - University Project
+> Same as [iasc-ayudantes](https://github.com/lucaslencinas/iasc-ayudantes) but in Erlang
 
-**TODO: Add description**
+Students ask questions to a list and the professors answer them.
 
-## Installation
+### Programming Languages, Libraries, Frameworks and other tools
+ 
+ - Erlang
+ - OTP
+ 
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
+### Team:
+- Lucas Lencinas
+- Pablo Ferro
+- Mariano Pinkava
 
-  1. Add tp1_ayudantes to your list of dependencies in `mix.exs`:
-
-        def deps do
-          [{:tp1_ayudantes, "~> 0.0.1"}]
-        end
-
-  2. Ensure tp1_ayudantes is started before your application:
-
-        def application do
-          [applications: [:tp1_ayudantes]]
-        end
